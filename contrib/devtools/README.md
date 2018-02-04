@@ -9,7 +9,7 @@ For example a file changed in 2018): // Copyright (c) 2018 The a1xcoin developer
 would be changed to: // Copyright (c) 2018 The a1xcoin developers
 
 optimize-pngs.py
-A script to optimize png files in the paycoin repository (requires pngcrush).
+A script to optimize png files in the a1xcoin repository (requires pngcrush).
 
 update-translations.py
 Run this script from the root of the repository to update all translations from transifex. It will do the following automatically:
