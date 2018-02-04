@@ -1,0 +1,20 @@
+a1xcoin (0.3.3.1) precise; urgency=low
+
+  * Fix support for a1xcoin-qt’s a1xcoin: URI support.
+  * Fix periodic crash when sending/staking coins.
+  * Adjusted change log cause we didn't release URI support for 0.3.3.0
+
+ -- jose gregorio hernandez caldron  (a1xcoin) <https://a1xcoin.blogspot.com/>  Tue, 4 do, 2018 02:17:00 +1000
+ 
+
+a1xcoin (0.1.2.26) stable; urgency=low
+
+  * Bring package version number inline with application
+
+-- jose gregorio hernandez caldron  (a1xcoin) <https://a1xcoin.blogspot.com/>  Tue, 4 do, 2018 02:17:00 +1000
+
+a1xcoin (0.1.2.25) stable; urgency=low
+
+  * Initial release
+
+ -- jose gregorio hernandez caldron  (a1xcoin) <https://a1xcoin.blogspot.com/>  Tue, 4 do, 2018 02:17:00 +1000
