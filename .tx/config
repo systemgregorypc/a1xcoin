@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[a1xcoin.qt-translation-03x]
+file_filter = src/qt/locale/a1xcoin_<lang>.ts
+source_file = src/qt/locale/a1xcoin_en.ts
+source_lang = en
