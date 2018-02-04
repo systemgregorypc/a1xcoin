@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=a1xcoin
+Comment=a1xcoin P2P Cryptocurrency
+Comment[fr]=a1xcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=a1xcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/a1xcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/a1xcoin128.png
+MimeType=x-scheme-handler/a1xcoin;
+Categories=Office;
