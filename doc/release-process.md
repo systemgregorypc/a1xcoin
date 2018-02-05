@@ -1,4 +1,5 @@
 #Release Process
+
 Update translations
 Update (commit) version in sources
 doc/README*
@@ -132,4 +133,4 @@ done
 zip -r a1xcoin-${VERSION}-win-gitian.zip *
 cp a1xcoin-${VERSION}-win-gitian.zip ../
 popd
-*Upload gitian zips to SourceForge
+Upload gitian zips to SourceForge
