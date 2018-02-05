@@ -174,7 +174,7 @@ Thanks to everyone who contributed to this release:
 - Giel van Schijndel (indirectly, authored code committed by other contributers)
 - Pieter Wuille (indirectly, authored code committed by other contributers)
 - fsb4000 (indirectly, authored code committed by other contributers)
-- jose gregorio hernandez calderon  (system gregoryp.c y https://a1xcoin.blogspot.com/, authored code committed by other contributers)
+- jose gregorio hernandez calderon  (system gregory p.c y https://a1xcoin.blogspot.com/, authored code committed by other contributers)
 The following were instrumental in planning and release preparation:
 
 - Matthew Eden
@@ -182,4 +182,4 @@ The following were instrumental in planning and release preparation:
 - Richard Nelson
 - Jason Sponaugle
 - jose gregorio hernandez calderon
--
+
