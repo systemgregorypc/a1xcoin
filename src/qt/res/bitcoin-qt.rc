@@ -1,0 +1,28 @@
+IDI_ICON1 ICON DISCARDABLE "icons/a1xcoin.ico"
+
+#include <windows.h> // needed for VERSIONINFO
+
+VS_VERSION_INFO VERSIONINFO
+FILEOS         	VOS_NT_WINDOWS32
+FILETYPE       	VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4" // U.S. English - multilingual (hex)
+        BLOCK "0x040A" //  es-ES.  Spanish - multilingual (hex)
+        BEGIN
+            VALUE "CompanyName",        "a1xcoin"
+            VALUE "FileDescription",    "a1xcoin-Qt (OSS GUI client for Paycoin)"
+            VALUE "InternalName",       "a1xcoin-qt"
+            VALUE "LegalCopyright",     "2018 The a1xcoin developers"
+            VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
+            VALUE "OriginalFilename",   "a1xcoin-qt.exe"
+            VALUE "ProductName",        "ax1coin-Qt"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1252 // language neutral - multilingual (decimal)
+    END
+END
