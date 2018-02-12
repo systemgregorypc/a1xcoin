@@ -309,8 +309,8 @@
         <translation>संबंध काल समापन निर्दिष्ट करें (मिलीसेकंड में )</translation>
     </message>
     <message>
-        <source>Paycoin</source>
-        <translation>Paycoin</translation>
+        <source>a1xcoin</source>
+        <translation>a1xcoin</translation>
     </message>
     </context>
 </TS>
